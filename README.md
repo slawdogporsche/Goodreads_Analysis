@@ -1,2 +1,2 @@
 # Goodreads_Analysis
-Goodreads analysis
+Generating a wordcloud from the first page of reviews for Edward Bernays "Propaganda"
